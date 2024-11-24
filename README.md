@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Study-Of-Basic-Gates
 
 **AIM:** 
 
